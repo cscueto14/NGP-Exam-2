@@ -1,0 +1,48 @@
+<div class = "recentpost_div1"><a href="#"style = "text-decoration: none;">&#9658; Open Data storytelling and visualization workshops held</a></div>
+
+	margin-left: 1020px;
+	margin-right: 1050px;
+	margin-top: -2010px;
+
+	Open Data storytelling and visualization workshops held</a>
+
+	<span style = "font-size: x-small; color: #BDBBBB"; class = "arrow">&#9660;</span>
+
+	<a href="#" style = "text-decoration: none;">Open Data storytelling and visualization workshops held</a>
+	
+	&#9658; 
+
+	padding-top: 19px;
+	padding-left: 30px;
+	padding-right: 90px;
+	padding-bottom: 10px; 
+
+	DICT projects to serve citizens in the countryside 
+
+	DICT to boost Wi-Fi speed up to 55 Mbps 
+
+	DICT 1st anniversary features broadband plan, free wi-fi project, single portal 
+
+	<script type="text/javascript">
+
+			function(d, s, id) {
+  
+			var js, gjs = d.getElementById('gwt-standard-footer');
+
+  
+			js = d.createElement(s); js.id = id;
+
+			js.src = "//cdn.i.gov.ph/gwt-footer/footer.js";
+  
+			js.src = "//gwhs.i.gov.ph/gwt-footer/footer.js";
+  
+			gjs.parentNode.insertBefore(js, gjs);
+
+			}
+			(document, 'script', 'gwt-footer-jsdk'));
+
+		</script>
+
+		id="footer-gwt-frame" width="100%" scrolling="no" style="border: 0; min-height: 188px" 
+
+		//gwhs.i.gov.ph/gwt-footer/footer-source.html

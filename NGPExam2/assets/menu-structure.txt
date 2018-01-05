@@ -1,0 +1,71 @@
+Menu Structure:
+GOVPH
+Home
+ 
+Transparency
+-- Overview
+-- Organizational Structure
+-- 
+Annual Accomplishment Report
+---- 2016 Accomplishment Report
+---- 
+2015 Accomplishment Report
+---- 2014 Accomplishment Report
+---- 
+2013 Accomplishment Report
+---- 2012 Accomplishment Report
+-- 
+Name of Officials 
+
+Services
+-- Infrastructure
+---- Government Network (GovNet)
+---- 
+National Government Data Center (NGDC)
+---- Government Cloud (GovCloud)
+---- 
+Security Operations Center (SOC)
+-- Shared Services
+---- 
+Government-wide Email System (GovMail)
+---- 
+Philippine National Public Key Infrastructure (PNPKI)
+---- 
+Forms Builder
+---- PhPay and ProgRESIBO
+---- 
+Archives and Records Management Information System (ARMIS)
+---- 
+Government Project Management Information System (PMGov)
+---- 
+Gabay Aral
+---- Video Conferencing (VideoCon)
+-- Platform
+---- Government Web Hosting Service (GWHS)
+---- 
+National Government Portal (NGP)
+---- Philippine Government Common Platform (PGCP)
+---- 
+Philippine eGovernment Interoperability Framework (PeGIF)
+---- eGovernment Framework (eGovFrame)
+-- Resource Pooling Strategy
+-- Government Solutions Center 
+
+Events
+-- Training
+-- Kapihan ng mga Hepe
+-- ICT Month
+-- Year-End Activities 
+
+Resources
+-- Policies
+---- Signed
+---- Draft
+-- Reports
+-- Presentation Materials
+-- ELearning Modules
+-- Videos
+ 
+About Us
+
+All links should be pointed to a placeholder link.

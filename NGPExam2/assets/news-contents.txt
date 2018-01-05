@@ -1,0 +1,33 @@
+News Content:
+
+News 1:
+[Insert News Image-1]
+Title:
+Open Data storytelling and visualization workshops held
+
+Excerpt:
+The Open Data Philippines held a series of two-day Data Storytelling and Visualization workshops for government agencies on 16-17 November and 22-23 November 2017 at the Hive Hotel and Convention Place in Quezon City. The workshops were attended by representatives from the Bangko Sentral ng Pilipinas (BSP), Bureau of Fire Protection (BFP), Bureau of Internal....
+
+News 2:
+[Insert News Image-2]
+Title:
+DICT projects to serve citizens in the countryside
+
+Excerpt:
+Citizens in metro and countryside will enjoy equal access to ICT services, the Department of the Information and Communications Technology (DICT) said. The DICT unveiled its National Broadband Plan (NBP), Free Wi-Fi Internet Access in Public Places (FWPP) project, and National Government Portal or gov.ph on 23 June 2017. The event was held at the....
+
+News 3:
+[Insert News Image-3]
+Title:
+‘Caravan’ to introduce GovCloud in Davao, CDO
+
+Excerpt:
+Agencies wanting to avail of cloud technology are invited to join the orientation on Government Cloud (GovCloud), the Integrated Government Philippines (iGovPhil) announced. The Department of Information and Communications Technology (DICT), through its iGovPhil Program, is conducting a “caravan” to introduce the GovCloud and the benefits of using cloud technology to government agencies in Mindanao....
+
+News 4:
+[Insert News Image-4]
+Title:
+DICT to boost Wi-Fi speed up to 55 Mbps
+
+Excerpt:
+A free Wi-Fi access with a speed of 10 Mbps to 55 Mbps will be available to the public very soon. This was announced by Secretary Rodolfo A. Salalima of the Department of Information and Communications Technology (DICT) during the department’s first anniversary celebration today (9 June 2017). The DICT will provide faster internet connection....

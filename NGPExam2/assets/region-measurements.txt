@@ -1,0 +1,19 @@
+Main Container Width - 1280px 
+in width
+
+Region Measurements:
+Top Menu - 58px 
+in height
+Masthead - 140px 
+in height
+Banner - 258px 
+in height
+Content Section
+Content - 640px 
+in width
+Sidebar-left - 320px 
+in width
+Sidebar-right - 320px 
+in width
+Agency Footer - 230px in height
+Standard Footer - auto
